@@ -1,5 +1,5 @@
 {
-    "token": "MTA4NzQ3NjAxNDE0MzI0NjM5Ng.G5ot2A.ngUzxfPs0OHdkLZTAqK_5xvhpvm0_r4stZSp5M",
+    "token": "docker pull ghcr.io/tannergabriel/discord-bot:latest",
     "prefix": "!!",
     "ownerIDS": [
         "1080966731079630858"
